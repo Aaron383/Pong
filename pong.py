@@ -5,7 +5,7 @@
 # 'w' and 's' are used as up and down for player 1
 # 'i' and 'k' are used as up and down for player 2
 
-# I used the pygame library as well knowledge that I learned in class to complete this project
+
 
 import pygame
 
